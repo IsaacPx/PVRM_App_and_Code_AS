@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zifeifeng/Desktop/PVRM/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/zifeifeng/Desktop/PVRM/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zifeifeng/Desktop/PVRM/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/zifeifeng/Desktop/PVRM/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

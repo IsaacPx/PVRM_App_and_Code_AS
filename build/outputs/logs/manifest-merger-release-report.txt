@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:10:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zifeifeng/.android/build-cache/5ebe61b60df3aa06f79c3bd1f58b861ea8b317d3/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /Users/zifeifeng/.android/build-cache/8bcbd7420f64de19302d26094fd97d161b828df0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/zifeifeng/.android/build-cache/d5ec29ef6326019821e9941b2582537f0b757e94/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:15:9-65
+activity#com.example.jiahang.pvrm.ClinicianDataActivity
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:theme
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:18:13-51
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:17:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:19:13-23:29
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:20:27-74
+action#android.intent.action.MAIN
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:22:25-66
+activity#com.example.jiahang.pvrm.PatientQuestionnaireActivity
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:26:9-28:54
+	android:theme
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:28:13-51
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:27:13-57
+activity#com.example.jiahang.pvrm.InstructionActivity
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:29:9-31:47
+	android:theme
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:30:13-48
+activity#com.example.jiahang.pvrm.MainActivity
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:32:9-33:43
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:33:13-41
+activity#com.example.jiahang.pvrm.PreRecordActivity
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:34:9-35:49
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:35:13-46
+activity#com.example.jiahang.pvrm.DataRecordActivity
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:theme
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:39:13-51
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:38:13-47
+activity#com.example.jiahang.pvrm.SummaryActivity
+ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:43:9-62
+	android:name
+		ADDED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml:43:19-50
+uses-sdk
+INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zifeifeng/.android/build-cache/5ebe61b60df3aa06f79c3bd1f58b861ea8b317d3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:22.1.1] /Users/zifeifeng/.android/build-cache/8bcbd7420f64de19302d26094fd97d161b828df0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/zifeifeng/.android/build-cache/d5ec29ef6326019821e9941b2582537f0b757e94/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zifeifeng/Desktop/PVRM/app/src/main/AndroidManifest.xml

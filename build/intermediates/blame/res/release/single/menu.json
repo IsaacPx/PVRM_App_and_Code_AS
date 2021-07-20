@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zifeifeng/Desktop/PVRM/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/Users/zifeifeng/Desktop/PVRM/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/zifeifeng/Desktop/PVRM/app/build/intermediates/res/merged/release/menu/menu_patient_activity.xml",
+        "source": "/Users/zifeifeng/Desktop/PVRM/app/src/main/res/menu/menu_patient_activity.xml"
+    }
+]
